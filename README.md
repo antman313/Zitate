@@ -25,8 +25,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -102,7 +100,7 @@ None at the Moment.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/antman313/repo_name.git
+   git clone https://github.com/antman313/Zitate.git
    ```
 2. Compile it with Delphi
 3. Enjoy
@@ -126,7 +124,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
 <!-- LICENSE -->
 ## License
 
@@ -135,7 +132,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Andreas Grzybowski - [https://nullfunktion.de](https://nullfuntion) - null@nullfunktion.de
+Andreas Grzybowski - [https://nullfunktion.de](https://nullfunktion.de) - null@nullfunktion.de
 
 Project Link: [https://github.com/antman313/Zitate](https://github.com/antman313/Zitate)
 
@@ -143,12 +140,13 @@ Project Link: [https://github.com/antman313/Zitate](https://github.com/antman313
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/antman313/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/antman313/repo/graphs/contributors
+[contributors-url]: https://github.com/antman313/Zitate/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/antman313/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/antman313/repo/network/members
+[forks-url]: https://github.com/antman313/Zitate/network/members
 [stars-shield]: https://img.shields.io/github/stars/antman313/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/antman313/repo/stargazers
+[stars-url]: https://github.com/antman313/Zitate/stargazers
 [issues-shield]: https://img.shields.io/github/issues/antman313/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/antman313/repo/issues
+[issues-url]: https://github.com/antman313/Zitate/issues
 [license-shield]: https://img.shields.io/github/license/antman313/repo.svg?style=for-the-badge
-[license-url]: https://github.com/antman313/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/antman313/Zitate/blob/master/LICENSE.txt
+[product-screenshot]: screen.png
