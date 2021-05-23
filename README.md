@@ -81,16 +81,23 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Lorem Ipsum ...
+**Genaue Beschreibung folgt noch**
 
 ### Built With
 
-+ Delphi 10.3.2
++ Delphi 10.3.3
++ PHP
++ MySQL(MariaDB)
++ RESTApi from http://wiseloop.com/product/php-rest-services (Buy it at: https://codecanyon.net/item/php-rest-services-/4750857)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+See the source code for all things to know.
+
+Also you can play around here: https://api.fragandy.com/testapi.php/12345/zitate/v1/zitat.json
+NOTE! You need a API access key to use it. Use the default at the Moment.
 
 ### Prerequisites
 
